@@ -1,0 +1,30 @@
+<resources>
+    <style name="AppTheme"  parent="AppTheme.Base"> </style>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="AVLoadingIndicatorView">
+        <item name="minWidth">160dp</item>
+        <item name="maxWidth">160dp</item>
+        <item name="minHeight">48dp</item>
+        <item name="maxHeight">48dp</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+
+    <style name="AVLoadingIndicatorView.Large">
+        <item name="minWidth">240dip</item>
+        <item name="maxWidth">240dip</item>
+        <item name="minHeight">48dip</item>
+        <item name="maxHeight">48dip</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+
+    <style name="AVLoadingIndicatorView.Small">
+        <item name="minWidth">240dip</item>
+        <item name="maxWidth">240dip</item>
+        <item name="minHeight">96dip</item>
+        <item name="maxHeight">96dip</item>
+        <item name="indicatorName">BallPulseIndicator</item>
+    </style>
+</resources>

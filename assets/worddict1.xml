@@ -1,0 +1,107 @@
+<lesson cat="words">
+    <item id="invited">
+        <simple>邀请</simple>
+        <more>邀请,原型,invite</more>
+        <full>邀请,invite,的过去式和过去分词</full>
+    </item>
+    <item id="party">
+        <simple>聚会</simple>
+        <more>聚会</more>
+        <full>聚会</full>
+    </item>
+    <item id="last">
+        <simple>上一个</simple>
+        <more>上一个</more>
+        <full>上一个</full>
+    </item>
+    <item id="week">
+        <simple>星期</simple>
+        <more>一周</more>
+        <full>一周</full>
+    </item>
+    <item id="four-year-old">
+        <simple>四岁大的</simple>
+        <more>四岁大的,four,四,year,岁,年纪,old</more>
+        <full>四岁大的,four,四,years old,岁,年纪</full>
+    </item>
+    <item id="daughter">
+        <simple>女儿</simple>
+        <more>女儿</more>
+        <full>女儿</full>
+    </item>
+    <item id="decided">
+        <simple>决定</simple>
+        <more>决定,decide,的过去式</more>
+        <full>决定,decide,的过去式</full>
+    </item>
+    <item id="exeited">
+        <simple>兴奋的</simple>
+        <more>excite,的过去式</more>
+        <full>做形容词有,激发的;兴奋的，激动的;活跃的;受刺激的含义,做动词有,使兴奋的含义</full>
+    </item>
+    <item id="travelled">
+        <simple>旅行</simple>
+        <more>旅行,travel的过去式和过去分词</more>
+        <full>旅行,travel的过去式和过去分词</full>
+    </item>
+    <item id="because">
+        <simple>因为</simple>
+        <more>因为</more>
+        <full>因为</full>
+    </item>
+    <item id="never">
+        <simple>从来没有</simple>
+        <more>从来没有</more>
+        <full>从来没有</full>
+    </item>
+    <item id="before">
+        <simple>在什么之前</simple>
+        <more>在什么之前</more>
+        <full>在什么之前</full>
+    </item>
+    <item id="sat">
+        <simple>坐</simple>
+        <more>坐,sit,的过去式，过去分词</more>
+        <full>坐,sit,的过去式，过去分词</full>
+    </item>
+    <item id="everything">
+        <simple>每件事物</simple>
+        <more>每件事,所有事物,一切 </more>
+        <full>每件事,所有事物,一切 </full>
+    </item>
+    <item id="saw">
+        <simple>看见</simple>
+        <more>看见,see,的过去式</more>
+        <full>看见,see,的过去式</full>
+    </item>
+    <item id="last week">
+        <simple>上星期</simple>
+        <more>上一周</more>
+        <full>上一周</full>
+    </item>
+    <item id="take">
+        <simple>带去</simple>
+        <more>采取,拿,取,耗费时间等</more>
+        <full>携带,拿走,取走,运走,采取,拿,取,耗费时间等</full>
+    </item>
+    <item id="window">
+        <simple>窗户</simple>
+        <more>窗户</more>
+        <full>窗户</full>
+    </item>
+    <item id="near">
+        <simple>靠近</simple>
+        <more>靠近,挨着</more>
+        <full>靠近,挨着</full>
+    </item>
+    <item id="question">
+        <simple>问题</simple>
+        <more>问题</more>
+        <full>问题</full>
+    </item>
+    <item id="ask">
+        <simple>提问</simple>
+        <more>提问</more>
+        <full>提问</full>
+    </item>
+</lesson>

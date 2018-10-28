@@ -1,0 +1,55 @@
+<lesson cat="grade1">
+    <item id="1001">
+        <seq>0</seq>
+        <firth>daughter:女儿</firth>
+        <second>last week:上个星期,four-year-old:四岁大,</second>
+        <fanyi>上个星期，我四岁大的女儿,赛丽</fanyi>
+        <keyword_check>shanggexingqi,shanggexinqi,shangzhou,shangzou,shangyigexingqi,shangyigexinqi,sisui,shisui,sishui,shishui,nver</keyword_check>
+        <keyword_pos>1,1,1,1,1,1,2,2,2,2,0</keyword_pos>
+    </item>
+    <item id="1001">
+        <seq>1</seq>
+        <firth>invited:邀请,party:聚会</firth>
+        <second>children:儿童</second>
+        <fanyi>被邀请去一个儿童的聚会</fanyi>
+        <keyword_check>yaoqin,beiqin,shouyao,juhui,haizi,haitong,haiton,ertong,erton</keyword_check>
+        <keyword_pos>0,0,0,1,2,2,2,2,2</keyword_pos>
+    </item>
+    <item id="1001">
+        <seq>2</seq>
+        <firth>decided:决定</firth>
+        <second>by train:乘火车,take:带.送</second>
+        <fanyi>我决定带她乘火车去</fanyi>
+        <keyword_check>jueding,juedin,chenhuoche,chenghuoche,zuohuoche,zhuohuoche,dahuoche,dai,song,sun,sung</keyword_check>
+        <keyword_pos>0,0,1,1,1,1,1,2,2,2,2</keyword_pos>
+    </item>
+    <item id="1001">
+        <seq>3</seq>
+        <firth>exeited:兴奋</firth>
+        <second></second>
+        <fanyi>赛丽非常兴奋</fanyi>
+        <keyword_check>xingfeng,xinfen,xingfen,xinfeng,jidong,jidon,gaoxing,gaoxin,xiyue,yukuai,yuyue</keyword_check>
+        <keyword_pos>0,0,0,0,0,0,0,0,0,0,0,0,0,0</keyword_pos>
+    </item>
+    <item id="1001">
+        <firth>travelled:旅行</firth>
+        <second>because:因为,never:从来没有,before:以前</second>
+        <fanyi>因为之前她从来没有坐过火车旅行</fanyi>
+        <keyword_check>lvxin,youli,yinwei,yingwei,conglaimei,conglaidoumei,cunlaidou,conlaimei,cunlaimei,congmei,conmei,conwei,congwei,congbu,conbu,zhiqian,congqian,conqian,yiqian,qian</keyword_check>
+        <keyword_pos>0,0,1,1,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3</keyword_pos>
+    </item>
+    <item id="1001">
+        <firth>sat:坐(sit的过去式)</firth>
+        <second>near:靠近,window:窗户</second>
+        <fanyi>赛丽坐在窗子旁边</fanyi>
+        <keyword_check>zuo,zhuo,kaojin,kaojing,pangbian,aizhe,kaozhe,aijin,aijing,chuangzi,chuanghu,boli,baoli</keyword_check>
+        <keyword_pos>0,0,1,1,1,1,1,1,1,2,2,2,2</keyword_pos>
+    </item>
+    <item id="1001">
+        <firth>everything:每件事情</firth>
+        <second>ask:提问,question:问题,saw:看见</second>
+        <fanyi>她对看到的一切都提问题</fanyi>
+        <keyword_check>meijianshi,yiqie,meiyijian,suoyoushi,quanbu,wenwenti,wengwenti,,tiwenti,tiwengti,wengwengti,wengwenti,wenchu,wengchu,tichu,wenti,wengti,kan,jiandao</keyword_check>
+        <keyword_pos>0,0,0,0,0,1,1,1,1,1,1,1,1,1,2,2,3,3</keyword_pos>
+    </item>
+</lesson>
