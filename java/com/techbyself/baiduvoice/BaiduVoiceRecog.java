@@ -48,7 +48,7 @@ public class BaiduVoiceRecog   implements  EventListener {
 
     private boolean logTime = true;
     //当前用户翻译的识别结果
-    private  String sCurrent_UserVoice_RecogResult=null;
+    private  String sCurrent_UserVoice_RecogResult="";
     private   Lesson  sCurrent_lesson;
     private   int sCurrent_pos;
     protected boolean enableOffline = false; // 测试离线命令词，需要改成true
@@ -172,7 +172,8 @@ public class BaiduVoiceRecog   implements  EventListener {
             if(resultpos<0||end_pos<0){
                 return;
             }
-            sCurrent_UserVoice_RecogResult=params.substring(resultpos+16,end_pos-5);
+            sCurrent_UserVoice_RecogResult=sCurrent_UserVoice_RecogResult+params.substring(resultpos+16,end_pos-5);
+            printLog(sCurrent_UserVoice_RecogResult);
             if(sCurrent_UserVoice_RecogResult!=null){
                 String  keywordCheck=sCurrent_lesson.getKeywordCheck();
                 String  keywordPos=sCurrent_lesson.getKeywordPos();
@@ -271,6 +272,8 @@ public class BaiduVoiceRecog   implements  EventListener {
         }
 
     }
-
+public   void setCurrent_UserVoice_RecogResultNull(){
+    sCurrent_UserVoice_RecogResult="";
+}
 
 }
